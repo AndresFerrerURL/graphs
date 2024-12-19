@@ -1,0 +1,7 @@
+﻿  glfunctions.cpp
+  main.cpp
+  Shader.cpp
+C:\Users\dresa\Documents\Uni\GRAFICS\PROJECTE_FINAL\Graphics_1_2024\Graphics_1_2024\Graphics_1\src\Shader.cpp(30,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generando código...
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Graphics_1.vcxproj -> C:\Users\dresa\Documents\Uni\GRAFICS\PROJECTE_FINAL\Graphics_1_2024\Graphics_1_2024\Graphics_1\Graphics_1.exe
